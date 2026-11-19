@@ -88,5 +88,3 @@ Entre las tablas principales se encuentran:
 
 
 Melissa Abigail Espinal Mejía
-
-Proyecto académico desarrollado en C# Windows Forms.
